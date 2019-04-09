@@ -1,1 +1,0 @@
-将compose拷贝到本地系统，使用各种shell进入compose目录，执行docker-compose up
